@@ -75,7 +75,7 @@ box-shadow: 0px -10px 2px -5px #f2a900; max-width: 1180px; margin: auto;}
       
       
      .tahsil-name-container { margin-bottom: 18px; }
- .tahsil-name-list { color: white; display: inline; padding: 5px 8px; line-height: 2;}
+ .tahsil-name-list { color: red; display: inline; padding: 5px 8px; line-height: 2;}
 .tahsil-name-list:hover { background-color: #f2a900; border-radius: 5px }
 
 
