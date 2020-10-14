@@ -42,6 +42,36 @@ box-shadow: 0px -10px 2px -5px #f2a900; max-width: 1180px; margin: auto;}
 
 
 
+.table-container {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table-heading, .table-data {
+  border: 2px solid #dbdbdb;
+  text-align: left;
+  padding: 8px;
+}
+
+.table-row:nth-child(even) {
+  background-color: #eaeaea;
+}
+
+.table-data-serial { text-align: center; width: 10%; }
+.table-data-right { width: 90%; }
+
+
+
+
+
+
+
+
+
+
+
+
 
 .hr-dashed:before, .hr-dashed:after {  content: ''; }
 .hr-dashed {
@@ -75,7 +105,7 @@ box-shadow: 0px -10px 2px -5px #f2a900; max-width: 1180px; margin: auto;}
       
       
      .tahsil-name-container { margin-bottom: 18px; }
- .tahsil-name-list { color: red; display: inline; padding: 5px 8px; line-height: 2;}
+ .tahsil-name-list { color: white; display: inline; padding: 5px 8px; line-height: 2;}
 .tahsil-name-list:hover { background-color: #f2a900; border-radius: 5px }
 
 
