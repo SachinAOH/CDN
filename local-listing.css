@@ -54,7 +54,7 @@ box-shadow: 0px -10px 2px -5px #f2a900; max-width: 1180px; margin: auto;}
 }
 
 .table-row:nth-child(even) {
-  background-color: #eaeaea;
+  background-color: #f8f8f8;
 }
 
 .table-data-serial { text-align: center; width: 10%; }
