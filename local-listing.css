@@ -49,7 +49,7 @@ box-shadow: 0px -10px 2px -5px #f2a900; max-width: 1180px; margin: auto;}
 }
 
 .table-heading, .table-data {
-  border: 2px solid #dbdbdb;
+  border: 2px solid #eaeaea;
   text-align: left;
   padding: 8px;
 }
